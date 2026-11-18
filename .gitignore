@@ -1,0 +1,6 @@
+*.v
+monitor
+dist/
+.v/
+.DS_Store
+.env
